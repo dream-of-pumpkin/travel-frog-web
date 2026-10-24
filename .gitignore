@@ -1,0 +1,7 @@
+# 只保留 index.html，其他都是中间文件
+*.py
+*.jpg
+*.png
+!index.html
+icons/
+icons_indoor/
